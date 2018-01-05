@@ -1,0 +1,25 @@
+{
+  "name": "factory-utils",
+  "description": "Generate a instance of an class",
+  "main": "lib/factory.js",
+  "authors": [
+    "Michele Belluco <bellucomichele@gmail.com>",
+	"Matteo Baggio <matteo.baggio@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "factory",
+    "javascript",
+    "class",
+    "extend",
+    "replace"
+  ],
+  "homepage": "https://github.com/vash15/factory-utils",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

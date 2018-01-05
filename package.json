@@ -1,0 +1,26 @@
+{
+  "name": "factory-utils",
+  "version": "1.0.0",
+  "description": "Generate a instance of an class",
+  "main": "lib/factory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vash15/factory-utils.git"
+  },
+  "keywords": [
+    "factory",
+    "javascript",
+    "class",
+    "extend",
+    "replace"
+  ],
+  "author": "Michele Belluco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vash15/factory-utils/issues"
+  },
+  "homepage": "https://github.com/vash15/factory-utils#readme"
+}
