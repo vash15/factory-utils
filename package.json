@@ -1,6 +1,6 @@
 {
   "name": "factory-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a instance of an class",
   "main": "lib/factory.js",
   "scripts": {
