@@ -4,7 +4,7 @@
   "main": "lib/factory.js",
   "authors": [
     "Michele Belluco <bellucomichele@gmail.com>",
-	"Matteo Baggio <matteo.baggio@gmail.com>"
+    "Matteo Baggio <matteo.baggio@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
